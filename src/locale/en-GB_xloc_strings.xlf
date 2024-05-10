@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en-US" datatype="plaintext" target-language="en-GB" date="2024-04-26T10:59:55Z" product-name="xloc" tool="Applanga" original="ng2.template">
+    <header>
+      <tool tool-name="Applanga"/>
+    </header>
+    <body>
+      <trans-unit id="navbarBrand" x-length-option="equals-source">
+        <source>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌​﻿‌Navbar</source>
+        <target>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌​﻿‌Navbar</target>
+      </trans-unit>
+      <trans-unit id="checkoutButton" x-length-option="equals-source">
+        <source>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌​﻿‍Checkout</source>
+        <target>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌​﻿‍Checkout</target>
+      </trans-unit>
+      <trans-unit id="productTitle" x-length-option="equals-source">
+        <source>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌​﻿﻿  </source>
+        <target>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌​﻿﻿  </target>
+      </trans-unit>
+      <trans-unit id="productType" x-length-option="equals-source">
+        <source>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‌​​Type:</source>
+        <target>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‌​​Type:</target>
+      </trans-unit>
+      <trans-unit id="productColor" x-length-option="equals-source">
+        <source>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‌​‌Color:</source>
+        <target>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‌​‌Color:</target>
+      </trans-unit>
+      <trans-unit id="productPrice" x-length-option="equals-source">
+        <source>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‌​‍Rs.</source>
+        <target>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‌​‍Rs.</target>
+      </trans-unit>
+      <trans-unit id="addToCartButton" x-length-option="equals-source">
+        <source>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‌​﻿Add to Cart</source>
+        <target>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‌​﻿Add to Cart</target>
+      </trans-unit>
+      <trans-unit id="totalPriceTitle" x-length-option="equals-source">
+        <source>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‌‌​Total Price</source>
+        <target>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‌‌​Total Price</target>
+      </trans-unit>
+      <trans-unit id="totalPrice" x-length-option="equals-source">
+        <source/>
+        <target/>
+      </trans-unit>
+      <trans-unit id="productPreviewTitle" x-length-option="equals-source">
+        <source>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‌‌‍ Product Preview </source>
+        <target>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‌‌‍ Product Preview </target>
+      </trans-unit>
+      <trans-unit id="productName" x-length-option="equals-source">
+        <source>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‌‌﻿ Rs.</source>
+        <target>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‌‌﻿ Rs.</target>
+      </trans-unit>
+      <trans-unit id="productDescription" x-length-option="equals-source">
+        <source>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‌‍​Product Description</source>
+        <target>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‌‍​Product Description</target>
+      </trans-unit>
+      <trans-unit id="productTotalPrice" x-length-option="equals-source">
+        <source>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‌‍‌Rs.</source>
+        <target>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‌‍‌Rs.</target>
+      </trans-unit>
+      <trans-unit id="removeFromCartButton" x-length-option="equals-source">
+        <source>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‌‍‍Remove from cart</source>
+        <target>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‌‍‍Remove from cart</target>
+      </trans-unit>
+      <trans-unit id="paymentPageTitle" x-length-option="equals-source">
+        <source>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‌‍﻿Payment Page</source>
+        <target>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‌‍﻿Payment Page</target>
+      </trans-unit>
+      <trans-unit id="orderSummaryTitle" x-length-option="equals-source">
+        <source>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‌﻿​Order Summary</source>
+        <target>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‌﻿​Order Summary</target>
+      </trans-unit>
+      <trans-unit id="subtotal" x-length-option="equals-source">
+        <source>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‌﻿‌Subtotal</source>
+        <target>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‌﻿‌Subtotal</target>
+      </trans-unit>
+      <trans-unit id="total" x-length-option="equals-source">
+        <source>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‌﻿‍TOTAL</source>
+        <target>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‌﻿‍TOTAL</target>
+      </trans-unit>
+      <trans-unit id="totalAmount" x-length-option="equals-source">
+        <source>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‌﻿﻿$</source>
+        <target>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‌﻿﻿$</target>
+      </trans-unit>
+      <trans-unit id="thankYouTitle" x-length-option="equals-source">
+        <source>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‍​​Thank you.</source>
+        <target>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‍​​Thank you.</target>
+      </trans-unit>
+      <trans-unit id="orderPlacedMessage" x-length-option="equals-source">
+        <source>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‍​‌Your order has been placed successfully.</source>
+        <target>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‍​‌Your order has been placed successfully.</target>
+      </trans-unit>
+      <trans-unit id="orderNumberMessage" x-length-option="equals-source">
+        <source>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‍​‍Your order number is 9237427634826. We will immediately process your and it will be delivered in 2 - 5 business days.</source>
+        <target>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‍​‍Your order number is 9237427634826. We will immediately process your and it will be delivered in 2 - 5 business days.</target>
+      </trans-unit>
+      <trans-unit id="goBackButton" x-length-option="equals-source">
+        <source>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‍​﻿Go back to home</source>
+        <target>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‍​﻿Go back to home</target>
+      </trans-unit>
+    </body>
+  </file>
+  <file source-language="en-US" datatype="plaintext" target-language="en-GB" date="2024-04-26T11:00:15Z" product-name="xloc" tool="Applanga" original="sample.xml">
+    <header>
+      <tool tool-name="Applanga"/>
+    </header>
+    <body>
+      <trans-unit id="flights" x-length-option="equals-source">
+        <source/>
+        <target>‌‍‌‍​​‌‍‍​‌﻿‍​‌‍‍﻿‌﻿﻿﻿‍﻿‍​​​‌﻿‌‌﻿﻿‍​‌​‌‌​‍​‍‍‌‌​Flights</target>
+      </trans-unit>
+      <trans-unit id="hotels" x-length-option="equals-source">
+        <source/>
+        <target>‌‍‌‍​​‌‍‍​‌﻿‍​‌‍‍﻿‌﻿﻿﻿‍﻿‍​​​‌﻿‌‌﻿﻿‍​‌​‌‌​‍​‍‍‌‌‌Hotels</target>
+      </trans-unit>
+      <trans-unit id="homestays_villas" x-length-option="equals-source">
+        <source/>
+        <target>‌‍‌‍​​‌‍‍​‌﻿‍​‌‍‍﻿‌﻿﻿﻿‍﻿‍​​​‌﻿‌‌﻿﻿‍​‌​‌‌​‍​‍‍‌‌‍Homestays &amp; Villas</target>
+      </trans-unit>
+      <trans-unit id="holiday_packages" x-length-option="equals-source">
+        <source/>
+        <target>‌‍‌‍​​‌‍‍​‌﻿‍​‌‍‍﻿‌﻿﻿﻿‍﻿‍​​​‌﻿‌‌﻿﻿‍​‌​‌‌​‍​‍‍‌‌﻿Holiday Packages</target>
+      </trans-unit>
+      <trans-unit id="buses" x-length-option="equals-source">
+        <source/>
+        <target>‌‍‌‍​​‌‍‍​‌﻿‍​‌‍‍﻿‌﻿﻿﻿‍﻿‍​​​‌﻿‌‌﻿﻿‍​‌​‌‌​‍​‍‍‌‍​Buses</target>
+      </trans-unit>
+      <trans-unit id="cabs" x-length-option="equals-source">
+        <source/>
+        <target>‌‍‌‍​​‌‍‍​‌﻿‍​‌‍‍﻿‌﻿﻿﻿‍﻿‍​​​‌﻿‌‌﻿﻿‍​‌​‌‌​‍​‍‍‌‍‌Cabs</target>
+      </trans-unit>
+      <trans-unit id="trains" x-length-option="equals-source">
+        <source/>
+        <target>‌‍‌‍​​‌‍‍​‌﻿‍​‌‍‍﻿‌﻿﻿﻿‍﻿‍​​​‌﻿‌‌﻿﻿‍​‌​‌‌​‍​‍‍‌‍‍Trains</target>
+      </trans-unit>
+      <trans-unit id="one_way" x-length-option="equals-source">
+        <source/>
+        <target>‌‍‌‍​​‌‍‍​‌﻿‍​‌‍‍﻿‌﻿﻿﻿‍﻿‍​​​‌﻿‌‌﻿﻿‍​‌​‌‌​‍​‍‍‌‍﻿One Way</target>
+      </trans-unit>
+      <trans-unit id="round_trip" x-length-option="equals-source">
+        <source/>
+        <target>‌‍‌‍​​‌‍‍​‌﻿‍​‌‍‍﻿‌﻿﻿﻿‍﻿‍​​​‌﻿‌‌﻿﻿‍​‌​‌‌​‍​‍‍‌﻿​Round Trip</target>
+      </trans-unit>
+      <trans-unit id="multi_city" x-length-option="equals-source">
+        <source/>
+        <target>‌‍‌‍​​‌‍‍​‌﻿‍​‌‍‍﻿‌﻿﻿﻿‍﻿‍​​​‌﻿‌‌﻿﻿‍​‌​‌‌​‍​‍‍‌﻿‌Multi City</target>
+      </trans-unit>
+      <trans-unit id="departure" x-length-option="equals-source">
+        <source/>
+        <target>‌‍‌‍​​‌‍‍​‌﻿‍​‌‍‍﻿‌﻿﻿﻿‍﻿‍​​​‌﻿‌‌﻿﻿‍​‌​‌‌​‍​‍‍‌﻿‍Departure</target>
+      </trans-unit>
+      <trans-unit id="return" x-length-option="equals-source">
+        <source/>
+        <target>‌‍‌‍​​‌‍‍​‌﻿‍​‌‍‍﻿‌﻿﻿﻿‍﻿‍​​​‌﻿‌‌﻿﻿‍​‌​‌‌​‍​‍‍‌﻿﻿Return</target>
+      </trans-unit>
+      <trans-unit id="from" x-length-option="equals-source">
+        <source/>
+        <target>‌‍‌‍​​‌‍‍​‌﻿‍​‌‍‍﻿‌﻿﻿﻿‍﻿‍​​​‌﻿‌‌﻿﻿‍​‌​‌‌​‍​‍‍‍​​From</target>
+      </trans-unit>
+      <trans-unit id="to" x-length-option="equals-source">
+        <source/>
+        <target>‌‍‌‍​​‌‍‍​‌﻿‍​‌‍‍﻿‌﻿﻿﻿‍﻿‍​​​‌﻿‌‌﻿﻿‍​‌​‌‌​‍​‍‍‍​‌To</target>
+      </trans-unit>
+      <trans-unit id="delhi" x-length-option="equals-source">
+        <source/>
+        <target>‌‍‌‍​​‌‍‍​‌﻿‍​‌‍‍﻿‌﻿﻿﻿‍﻿‍​​​‌﻿‌‌﻿﻿‍​‌​‌‌​‍​‍‍‍​‍Delhi</target>
+      </trans-unit>
+      <trans-unit id="bengaluru" x-length-option="equals-source">
+        <source/>
+        <target>‌‍‌‍​​‌‍‍​‌﻿‍​‌‍‍﻿‌﻿﻿﻿‍﻿‍​​​‌﻿‌‌﻿﻿‍​‌​‌‌​‍​‍‍‍​﻿Bengaluru</target>
+      </trans-unit>
+      <trans-unit id="regular_fares" x-length-option="equals-source">
+        <source/>
+        <target>‌‍‌‍​​‌‍‍​‌﻿‍​‌‍‍﻿‌﻿﻿﻿‍﻿‍​​​‌﻿‌‌﻿﻿‍​‌​‌‌​‍​‍‍‍‌​Regular Fares</target>
+      </trans-unit>
+      <trans-unit id="armed_forces_fares" x-length-option="equals-source">
+        <source/>
+        <target>‌‍‌‍​​‌‍‍​‌﻿‍​‌‍‍﻿‌﻿﻿﻿‍﻿‍​​​‌﻿‌‌﻿﻿‍​‌​‌‌​‍​‍‍‍‌‌Armed Forces Fares</target>
+      </trans-unit>
+      <trans-unit id="student_fares" x-length-option="equals-source">
+        <source/>
+        <target>‌‍‌‍​​‌‍‍​‌﻿‍​‌‍‍﻿‌﻿﻿﻿‍﻿‍​​​‌﻿‌‌﻿﻿‍​‌​‌‌​‍​‍‍‍‌‍Student Fares</target>
+      </trans-unit>
+      <trans-unit id="gift_cards" x-length-option="equals-source">
+        <source/>
+        <target>‌‍‌‍​​‌‍‍​‌﻿‍​‌‍‍﻿‌﻿﻿﻿‍﻿‍​​​‌﻿‌‌﻿﻿‍​‌​‌‌​‍​‍‍‍‌﻿Gift Cards</target>
+      </trans-unit>
+      <trans-unit id="all_offers" x-length-option="equals-source">
+        <source/>
+        <target>‌‍‌‍​​‌‍‍​‌﻿‍​‌‍‍﻿‌﻿﻿﻿‍﻿‍​​​‌﻿‌‌﻿﻿‍​‌​‌‌​‍​‍‍‍‍​All Offers</target>
+      </trans-unit>
+      <trans-unit id="grab" x-length-option="equals-source">
+        <source/>
+        <target>‌‍‌‍​​‌‍‍​‌﻿‍​‌‍‍﻿‌﻿﻿﻿‍﻿‍​​​‌﻿‌‌﻿﻿‍​‌​‌‌​‍​‍‍‍‍‌Grab</target>
+      </trans-unit>
+      <trans-unit id="up" x-length-option="equals-source">
+        <source/>
+        <target>‌‍‌‍​​‌‍‍​‌﻿‍​‌‍‍﻿‌﻿﻿﻿‍﻿‍​​​‌﻿‌‌﻿﻿‍​‌​‌‌​‍​‍‍‍‍‍Up</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
