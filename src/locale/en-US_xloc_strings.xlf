@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en-US" datatype="plaintext" target-language="en-US" date="2024-04-26T11:00:15Z" product-name="xloc" tool="Applanga" original="ng2.template">
+    <header>
+      <tool tool-name="Applanga"/>
+    </header>
+    <body>
+      <trans-unit id="navbarBrand" x-length-option="equals-source">
+        <source>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌​﻿‌Navbar</source>
+      </trans-unit>
+      <trans-unit id="checkoutButton" x-length-option="equals-source">
+        <source>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌​﻿‍Checkout</source>
+      </trans-unit>
+      <trans-unit id="productTitle" x-length-option="equals-source">
+        <source>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌​﻿﻿  </source>
+      </trans-unit>
+      <trans-unit id="productType" x-length-option="equals-source">
+        <source>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‌​​Type:</source>
+      </trans-unit>
+      <trans-unit id="productColor" x-length-option="equals-source">
+        <source>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‌​‌Color:</source>
+      </trans-unit>
+      <trans-unit id="productPrice" x-length-option="equals-source">
+        <source>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‌​‍Rs.</source>
+      </trans-unit>
+      <trans-unit id="addToCartButton" x-length-option="equals-source">
+        <source>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‌​﻿Add to Cart</source>
+      </trans-unit>
+      <trans-unit id="totalPriceTitle" x-length-option="equals-source">
+        <source>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‌‌​Total Price</source>
+      </trans-unit>
+      <trans-unit id="totalPrice" x-length-option="equals-source">
+        <source/>
+      </trans-unit>
+      <trans-unit id="productPreviewTitle" x-length-option="equals-source">
+        <source>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‌‌‍ Product Preview </source>
+      </trans-unit>
+      <trans-unit id="productName" x-length-option="equals-source">
+        <source>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‌‌﻿ Rs.</source>
+      </trans-unit>
+      <trans-unit id="productDescription" x-length-option="equals-source">
+        <source>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‌‍​Product Description</source>
+      </trans-unit>
+      <trans-unit id="productTotalPrice" x-length-option="equals-source">
+        <source>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‌‍‌Rs.</source>
+      </trans-unit>
+      <trans-unit id="removeFromCartButton" x-length-option="equals-source">
+        <source>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‌‍‍Remove from cart</source>
+      </trans-unit>
+      <trans-unit id="paymentPageTitle" x-length-option="equals-source">
+        <source>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‌‍﻿Payment Page</source>
+      </trans-unit>
+      <trans-unit id="orderSummaryTitle" x-length-option="equals-source">
+        <source>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‌﻿​Order Summary</source>
+      </trans-unit>
+      <trans-unit id="subtotal" x-length-option="equals-source">
+        <source>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‌﻿‌Subtotal</source>
+      </trans-unit>
+      <trans-unit id="total" x-length-option="equals-source">
+        <source>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‌﻿‍TOTAL</source>
+      </trans-unit>
+      <trans-unit id="totalAmount" x-length-option="equals-source">
+        <source>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‌﻿﻿$</source>
+      </trans-unit>
+      <trans-unit id="thankYouTitle" x-length-option="equals-source">
+        <source>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‍​​Thank you.</source>
+      </trans-unit>
+      <trans-unit id="orderPlacedMessage" x-length-option="equals-source">
+        <source>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‍​‌Your order has been placed successfully.</source>
+      </trans-unit>
+      <trans-unit id="orderNumberMessage" x-length-option="equals-source">
+        <source>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‍​‍Your order number is 9237427634826. We will immediately process your and it will be delivered in 2 - 5 business days.</source>
+      </trans-unit>
+      <trans-unit id="goBackButton" x-length-option="equals-source">
+        <source>‌‍‌‍​​‍‍‌﻿﻿‌​‌‍‌‍‌‌﻿‌‍​﻿​‌‌﻿​​‌﻿﻿‌​‌‌﻿‌​﻿​​‍‌‍​﻿Go back to home</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
