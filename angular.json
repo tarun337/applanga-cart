@@ -7,10 +7,12 @@
       "i18n":{
         "sourceLocale":"en-US",
         "locales": {
-          "de":{
-        "translation":"src/locale/messages.de-DE.xlf"
-    }
-  }
+          "de-DE":{
+            "translation":"src/locale/de-DE_xloc_strings.xlf"
+  },
+          "en-GB":{
+            "translation":"src/locale/en-GB_xloc_strings.xlf"
+          }
       },
       "projectType": "application",
       "schematics": {
@@ -26,7 +28,7 @@
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
             "localize":[
-              "de","en-US"
+              "de-DE","en-US","en-GB"
             ],
             "outputPath": "dist",
             "index": "src/index.html",
