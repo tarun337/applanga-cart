@@ -13,6 +13,7 @@
           "en-GB":{
             "translation":"src/locale/en-GB_xloc_strings.xlf"
           }
+        }
       },
       "projectType": "application",
       "schematics": {
